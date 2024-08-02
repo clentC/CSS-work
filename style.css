@@ -1,0 +1,49 @@
+
+
+
+h1 {
+  background-color: aqua;
+  padding: 0.5em;
+  margin: 0%;
+  text-align: center;
+  text-shadow: 5px 5px 5px blue;
+}
+
+
+h2 {
+  background-color: aqua;
+padding: 1em;
+margin: 0px;
+  text-align: center;
+}
+
+.green {
+  background: green;
+  margin-left: 300px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+
+.green, .red, .yellow {
+  display: inline;
+}
+
+.first {
+  color:blue
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 1%;
+}
